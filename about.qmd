@@ -13,7 +13,7 @@ title: "About me"
 <!-- Text gets a column with width 8/12 -->
 ::: {.g-col-8}
 
-On this about page, you might want to add more information about yourself, 
+ On this about page, you might want to add more information about yourself, 
 the project, or course. Any helpful context could go here!
 
 My name is Brooke Acosta, the instructor for the course. You can find more 
